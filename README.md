@@ -9,19 +9,19 @@ Laundromat is a science fiction simulation game where you play the role of a lau
 
 ### Game outline
 The main game loop is fulfilling drop off service which takes place with the following steps:
-customers enter the laundromat with a load of clothes for drop off
-player weighs the clothes on a scale
-player writes a receipt for the customer
-clothes are separated by washing instructions: light and dark colors, and fabric types
-clothes are loaded into washers
-clothes are loaded into dryers
-clothes are folded and returned to the laundry bag
-customer returns and player receives money
+1. customers enter the laundromat with a load of clothes for drop off
+2. player weighs the clothes on a scale
+3. player writes a receipt for the customer
+4. clothes are separated by washing instructions: light and dark colors, and fabric types
+5. clothes are loaded into washers
+6. clothes are loaded into dryers
+7. clothes are folded and returned to the laundry bag
+8. customer returns and player receives money
 
 ### Unique selling points
-origami-style folding puzzles with clothing
-management simulation gameplay
-immersive dialogue with space station inhabitants
+- origami-style folding puzzles with clothing
+- management simulation gameplay
+- immersive dialogue with space station inhabitants
 
 ### Similar competitive products
 Dave the Diver, Overcooked, Night in the Woods
